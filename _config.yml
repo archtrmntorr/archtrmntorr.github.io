@@ -31,6 +31,9 @@ github:
 twitter:
   username: archtrmntor # change to your Twitter username
 
+linkedin:
+  username: hitesh-sharma-413862245
+
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
@@ -42,7 +45,7 @@ social:
     - https://github.com/archtrmntorr # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/archtrmntor
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/hitesh-sharma-413862245 # change to your Linkedin homepage
 
 # Site Verification Settings
 webmaster_verifications:
