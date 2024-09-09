@@ -14,9 +14,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Archtrmtor # the main title
+title: Archtrmtor's CyberSec Blog # the main title
 
-tagline: Welcome to My Personal Blog!  # it will display as the subtitle
+tagline: Security Writeups and Blogs  # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.

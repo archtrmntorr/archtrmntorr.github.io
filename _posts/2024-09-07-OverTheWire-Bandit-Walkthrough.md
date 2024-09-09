@@ -18,6 +18,13 @@ I will provide a concise overview of the main ideas, with further exploration en
 
 Having familiarized yourself with the article's focus and my intentions, we can now proceed to Level 0's step-by-step guide.
 
+-------Steps for reading:------------
+
+1. Read it once and take notes of words you may be unfamiliar with.
+2. Research the words you don't understand.
+3. Reread and see if you understand it better
+
+
 ## <span style="color: orange;"><b>--> Level 0</b></span>
 
 ```ssh : ssh bandit.labs.overthewire.org -l bandit0 -p 2220   ```      
