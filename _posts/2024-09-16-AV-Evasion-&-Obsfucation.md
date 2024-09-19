@@ -1,6 +1,6 @@
 ---
-title: "AV Evasion & Obsfucation For Beginners"
-description: "Learn AV Evasion with Shellter and Obfuscation using Invoke-Obsfuscation"
+title: "AV Evasion & Obfuscation For Beginners"
+description: "Learn AV Evasion with Shellter and Obfuscation using Invoke-Obfuscation"
 date: 2024-09-16
 categories: [Blog]
 tags: [AV Evasion, Code Obfuscation]
@@ -49,7 +49,7 @@ AV software will utilize many techniques to indetify potential harmful file or a
 
 + What i mean by this is , consider a file you downloaded attempts to copy itself into the starting folder of your computer on its own. This raises suspicions because a lot of trustworthy apps don't require it, but malicious apps frequently aim to launch automatically each time your computer boots up. Based on its unique behavior, the antivirus program labels the file as potentially hazardous even though it doesn't match any known virus signatures. This is an example of _behavior based detection_ in action; rather than searching for a precise match, it looks for traits or behaviors that are frequently connected to malware.
 
-> as we known nothing is permanent solution for anything and as so called hackers/cyber-security-researchers whatever ever you call , we love to break things and make things works unintended way , and we are goot at it 🗿 . 
+> as we known nothing is permanent solution for anything and as so called hackers/cyber-security-researchers whatever ever you call , we love to break things and make things works unintended way , and we are good at it 🗿 . 
 {: .prompt-info}
 
 
