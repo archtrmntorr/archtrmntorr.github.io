@@ -4,10 +4,9 @@ description: "Learn AV Evasion with Shellter and Obfuscation using Invoke-Obfusc
 date: 2024-09-16
 categories: [Blog]
 tags: [AV Evasion, Code Obfuscation]
-
+image:
+    path: https://i.imghippo.com/files/3nhQK1726511831.gif
 ---
-
-![[Banner]](https://i.imghippo.com/files/3nhQK1726511831.gif)
 
 
 > As this is a Very Beginner level Post and i keep things simple and publish more blogs about explaining techniques , about  how to do that .

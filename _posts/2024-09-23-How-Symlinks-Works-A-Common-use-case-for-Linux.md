@@ -5,6 +5,7 @@ date:  2024-09-23
 categories: [Blog]
 tags: [Symlink, Symbolic Link , soft link , hard link , shortcut]
 ---
+
 I learned about how to create a symlink , but I din't understand a single use case for a symlink , till i encounter a hackthebox active machine permx .  Let's disuss little about `symlink`
 
 #### <span style="color: Orange;"><b># What do we understand by _**Symlink**_ in first palce ?</b></span>

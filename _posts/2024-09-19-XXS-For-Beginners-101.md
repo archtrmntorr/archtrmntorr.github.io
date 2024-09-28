@@ -4,6 +4,7 @@ description: "A Client-Side Attack"
 date: 2024-09-19
 categories: [Blog]
 tags: [XSS, Cross-Site Scripting , Client-Side attack , Web Vulnerability]
+
 ---
 
 ![Image](https://i.imghippo.com/files/9r6ZQ1726753405.gif)

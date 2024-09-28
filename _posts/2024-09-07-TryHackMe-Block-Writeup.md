@@ -4,6 +4,8 @@ description: "Encryption? What Encryption?"
 date:  2024-09-08
 categories: [Writeup]
 tags: [TryHackMe, Walkthrough, Writeup, Block Walkthrough, Tryhackme Block Walkthrough]
+image:
+    path: https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FeCwn9P2gD42PZO5HkSRE%2Fuploads%2FhmoIRAtObq5VzxLHPKQy%2FPasted%20image%2020240909142449.png?alt=media&token=aee181b5-55ac-486f-a382-fd4eda07ff71
 ---
 
 
