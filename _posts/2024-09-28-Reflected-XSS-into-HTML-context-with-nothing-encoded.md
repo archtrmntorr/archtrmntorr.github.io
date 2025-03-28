@@ -5,7 +5,7 @@ date:  2024-09-28
 categories: [Walkthrough]
 tags: [PortSwigger, Academy , Lab , PortSwigger Academy Lab , XSS , Cross Site Scripting, Reflected XSS , HTML]
 image: 
-    path : https://i.imghippo.com/files/Gg1FK1727518360.gif
+    path : https://i.pinimg.com/originals/30/69/c9/3069c9b05b28206006c1a7dd0569f343.gif
 ---
 
 

@@ -4,6 +4,8 @@ description: "Creating Shortcut in Linux"
 date:  2024-09-23
 categories: [Blog]
 tags: [Symlink, Symbolic Link , soft link , hard link , shortcut]
+image:
+    path: https://i.pinimg.com/originals/74/a9/23/74a923fb3c6606d58e3f7c0089fff5df.gif
 ---
 
 I learned about how to create a symlink , but I din't understand a single use case for a symlink , till i encounter a hackthebox active machine permx .  Let's disuss little about `symlink`

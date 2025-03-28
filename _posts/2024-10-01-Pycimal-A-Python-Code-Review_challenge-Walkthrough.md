@@ -5,7 +5,7 @@ date:  2024-10-01
 categories: [Walkthrough]
 tags: [trycrack.me, code , review , codereview , code-review , walkthrough , pycimal , python code review , Pycimal] 
 image :
-    path : https://i.imghippo.com/files/AGFTH1727762447.webp
+    path : https://i.pinimg.com/736x/78/fc/68/78fc687dc57910ef4348c7c0003f9785.jpg
 ---
 
 

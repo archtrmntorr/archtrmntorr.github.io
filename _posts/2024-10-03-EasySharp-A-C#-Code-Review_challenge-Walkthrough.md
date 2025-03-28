@@ -5,7 +5,7 @@ date:  2024-10-03
 categories: [Walkthrough]
 tags: [trycrack.me, code , review , codereview , code-review , walkthrough , EasySharp , C# review , EasySharp, C Sharp] 
 image :
-    path : https://i.imghippo.com/files/Nkrml1727947554.gif
+    path : https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif
 ---
 
 Let's dive into a C# code review from [TryCrack.ME](https://trycrack.me/) and elevate our skills stats.

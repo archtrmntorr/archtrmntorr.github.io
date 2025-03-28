@@ -5,7 +5,7 @@ date:  2024-10-09
 categories: [Writeup]
 tags: [tryhackme , Active Directory , Active , Directory , attactive Directory.] 
 image :
-    path : https://i.imghippo.com/files/K60g01728483362.webp
+    path : https://i.pinimg.com/736x/57/22/50/5722500a7d5eb8d3a6cadcb12a081155.jpg
 ---
 
 

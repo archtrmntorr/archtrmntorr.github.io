@@ -4,10 +4,10 @@ description: "A Client-Side Attack"
 date: 2024-09-19
 categories: [Blog]
 tags: [XSS, Cross-Site Scripting , Client-Side attack , Web Vulnerability]
-
+image:
+    path: https://i.pinimg.com/736x/ee/ab/17/eeab17e74a7e38e2feb1da26c5e3cdb6.jpg
 ---
 
-![Image](https://i.imghippo.com/files/9r6ZQ1726753405.gif)
 
 #### <span style="color: Orange;"><b><u># What is XSS? Understanding Cross-Site Scripting Vulnerabilities ?</u></b></span>
 
