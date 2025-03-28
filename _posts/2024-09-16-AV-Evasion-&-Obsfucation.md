@@ -5,7 +5,7 @@ date: 2024-09-16
 categories: [Blog]
 tags: [AV Evasion, Code Obfuscation]
 image:
-    path: assets\img\AV Evasion & Obfuscation For Beginners 28-03-2025 at 18-12-31.jpeg
+    path: /assets/img/AV.jpeg
 ---
 
 
