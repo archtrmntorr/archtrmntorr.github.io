@@ -1,383 +1,399 @@
-<?xml version="1.0" encoding="UTF-8"?> 
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
+<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-  <loc>http://archtrmntorr.github.io/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/</loc>
+	<lastmod>2025-05-22T04:55:37+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/categories/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/categories/</loc>
+	<lastmod>2025-05-22T04:55:37+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/tags/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/tags/</loc>
+	<lastmod>2025-05-22T04:55:37+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/archives/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/archives/</loc>
+	<lastmod>2025-05-22T04:55:37+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/about/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/about/</loc>
+	<lastmod>2025-05-22T04:55:37+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/feed.xml</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/posts/ParrotCTFs-Rejetto-Walkthrough/</loc>
+	<lastmod>2025-05-22T04:55:37+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/posts/Hackthebox-Academy-File-Upload-Walkthrough/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/posts/Hackthebox-Academy-File-Upload-Walkthrough/</loc>
+	<lastmod>2025-05-22T04:55:37+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/posts/Active-Directory-Enumeration-And-Attacks/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/posts/Active-Directory-Enumeration-And-Attacks/</loc>
+	<lastmod>2025-05-22T04:55:37+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/posts/TryHackMe-Attacktive-Directory-WriteUp/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/posts/TryHackMe-Attacktive-Directory-WriteUp/</loc>
+	<lastmod>2025-05-22T04:55:37+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/posts/Replace-A-PHP-Code-Review_challenge-Walkthrough/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/posts/Replace-A-PHP-Code-Review_challenge-Walkthrough/</loc>
+	<lastmod>2025-05-22T04:55:37+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/posts/EasySharp-A-C-Code-Review_challenge-Walkthrough/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/posts/EasySharp-A-C-Code-Review_challenge-Walkthrough/</loc>
+	<lastmod>2025-05-22T04:55:37+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/posts/Pycimal-A-Python-Code-Review_challenge-Walkthrough/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/posts/Pycimal-A-Python-Code-Review_challenge-Walkthrough/</loc>
+	<lastmod>2025-05-22T04:55:37+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/posts/Stored-XSS-into-HTML-context-with-nothing-encoded-Walkthrough/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/posts/Stored-XSS-into-HTML-context-with-nothing-encoded-Walkthrough/</loc>
+	<lastmod>2025-05-22T04:55:37+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/posts/Reflected-XSS-into-HTML-context-with-nothing-encoded/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/posts/Reflected-XSS-into-HTML-context-with-nothing-encoded/</loc>
+	<lastmod>2025-05-22T04:55:37+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/posts/How-Symlinks-Works-A-Common-use-case-for-Linux/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/posts/How-Symlinks-Works-A-Common-use-case-for-Linux/</loc>
+	<lastmod>2025-05-22T04:55:37+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/posts/XXS-For-Beginners-101/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/posts/AV-Evasion-&amp;-Obsfucation/</loc>
+	<lastmod>2025-05-22T04:55:37+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/page2</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/tags/active-directory/</loc>
+	<lastmod>2025-05-22T04:55:37+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/posts/AV-Evasion-&-Obsfucation/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/tags/code-review/</loc>
+	<lastmod>2025-05-22T04:55:37+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/tags/active-directory/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/tags/code/</loc>
+	<lastmod>2025-05-22T04:55:37+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/tags/code-review/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/tags/codereview/</loc>
+	<lastmod>2025-05-22T04:55:37+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/tags/code/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/tags/review/</loc>
+	<lastmod>2025-05-22T04:55:37+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/tags/codereview/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/tags/trycrack-me/</loc>
+	<lastmod>2025-05-22T04:55:37+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/tags/review/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/tags/walkthrough/</loc>
+	<lastmod>2025-05-22T04:55:37+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/tags/trycrack-me/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/tags/xss/</loc>
+	<lastmod>2025-05-22T04:55:37+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/tags/walkthrough/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/tags/academy/</loc>
+	<lastmod>2025-05-22T04:55:37+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/tags/xss/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/tags/answer/</loc>
+	<lastmod>2025-05-22T04:55:37+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/tags/academy/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/categories/blog/</loc>
+	<lastmod>2025-05-22T04:55:37+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/tags/answer/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/categories/walkthrough/</loc>
+	<lastmod>2025-05-22T04:55:37+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/categories/blog/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/categories/writeup/</loc>
+	<lastmod>2025-05-22T04:55:37+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/categories/walkthrough/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/tags/active/</loc>
+	<lastmod>2025-05-22T04:55:38+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/categories/writeup/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/tags/attacks/</loc>
+	<lastmod>2025-05-22T04:55:38+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/tags/active/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/tags/attactive-directory/</loc>
+	<lastmod>2025-05-22T04:55:38+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/tags/attacks/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/tags/av-evasion/</loc>
+	<lastmod>2025-05-22T04:55:38+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/tags/attactive-directory/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/tags/bandit-walkthrugh/</loc>
+	<lastmod>2025-05-22T04:55:38+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/tags/av-evasion/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/tags/block-walkthrough/</loc>
+	<lastmod>2025-05-22T04:55:38+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/tags/bandit-walkthrugh/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/tags/c-sharp/</loc>
+	<lastmod>2025-05-22T04:55:38+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/tags/block-walkthrough/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/tags/c-review/</loc>
+	<lastmod>2025-05-22T04:55:38+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/tags/c-sharp/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/tags/cbbh/</loc>
+	<lastmod>2025-05-22T04:55:38+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/tags/c-review/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/tags/client-side-attack/</loc>
+	<lastmod>2025-05-22T04:55:38+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/tags/cbbh/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/tags/code-obfuscation/</loc>
+	<lastmod>2025-05-22T04:55:38+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/tags/client-side-attack/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/tags/cpts/</loc>
+	<lastmod>2025-05-22T04:55:38+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/tags/code-obfuscation/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/tags/cross-site-scripting/</loc>
+	<lastmod>2025-05-22T04:55:38+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/tags/cpts/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/tags/cve-2024-23692/</loc>
+	<lastmod>2025-05-22T04:55:38+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/tags/cross-site-scripting/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/tags/directory/</loc>
+	<lastmod>2025-05-22T04:55:38+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/tags/directory/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/tags/easysharp/</loc>
+	<lastmod>2025-05-22T04:55:38+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/tags/easysharp/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/tags/enumeration/</loc>
+	<lastmod>2025-05-22T04:55:38+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/tags/enumeration/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/tags/file-upload/</loc>
+	<lastmod>2025-05-22T04:55:38+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/tags/file-upload/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/tags/hackthebox/</loc>
+	<lastmod>2025-05-22T04:55:38+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/tags/hackthebox/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/tags/hard-link/</loc>
+	<lastmod>2025-05-22T04:55:38+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/tags/hard-link/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/tags/html/</loc>
+	<lastmod>2025-05-22T04:55:38+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/tags/html/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/tags/lab/</loc>
+	<lastmod>2025-05-22T04:55:38+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/tags/lab/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/tags/overthewrite/</loc>
+	<lastmod>2025-05-22T04:55:38+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/tags/overthewrite/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/tags/parrotctfs/</loc>
+	<lastmod>2025-05-22T04:55:38+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/tags/php/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/tags/php/</loc>
+	<lastmod>2025-05-22T04:55:38+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/tags/php-review/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/tags/php-review/</loc>
+	<lastmod>2025-05-22T04:55:38+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/tags/portswigger/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/tags/portswigger/</loc>
+	<lastmod>2025-05-22T04:55:38+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/tags/portswigger-academy-lab/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/tags/portswigger-academy-lab/</loc>
+	<lastmod>2025-05-22T04:55:38+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/tags/pycimal/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/tags/pycimal/</loc>
+	<lastmod>2025-05-22T04:55:38+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/tags/python-code-review/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/tags/python-code-review/</loc>
+	<lastmod>2025-05-22T04:55:38+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/tags/questions/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/tags/questions/</loc>
+	<lastmod>2025-05-22T04:55:38+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/tags/reflected-xss/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/tags/reflected-xss/</loc>
+	<lastmod>2025-05-22T04:55:38+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/tags/replace/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/tags/rejetto/</loc>
+	<lastmod>2025-05-22T04:55:38+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/tags/shortcut/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/tags/rejetto-hfs/</loc>
+	<lastmod>2025-05-22T04:55:38+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/tags/soft-link/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/tags/replace/</loc>
+	<lastmod>2025-05-22T04:55:38+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/tags/stored-xss/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/tags/shortcut/</loc>
+	<lastmod>2025-05-22T04:55:38+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/tags/symbolic-link/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/tags/soft-link/</loc>
+	<lastmod>2025-05-22T04:55:38+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/tags/symlink/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/tags/stored-xss/</loc>
+	<lastmod>2025-05-22T04:55:38+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/tags/trycrackme/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/tags/symbolic-link/</loc>
+	<lastmod>2025-05-22T04:55:38+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/tags/tryhackme/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/tags/symlink/</loc>
+	<lastmod>2025-05-22T04:55:38+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/tags/tryhackme-block-walkthrough/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/tags/trycrackme/</loc>
+	<lastmod>2025-05-22T04:55:38+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/tags/waregames/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/tags/tryhackme/</loc>
+	<lastmod>2025-05-22T04:55:38+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/tags/web-vulnerability/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/tags/tryhackme-block-walkthrough/</loc>
+	<lastmod>2025-05-22T04:55:38+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/tags/writeup/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/tags/waregames/</loc>
+	<lastmod>2025-05-22T04:55:38+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/posts/TryHackMe-Block-Writeup/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/tags/web-vulnerability/</loc>
+	<lastmod>2025-05-22T04:55:38+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>http://archtrmntorr.github.io/posts/OverTheWire-Bandit-Walkthrough/</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/tags/writeup/</loc>
+	<lastmod>2025-05-22T04:55:38+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc></loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-05-15</lastmod>
+	<loc>https://archtrmntorr.github.io/posts/XXS-For-Beginners-101/</loc>
+	<lastmod>2025-05-22T04:55:38+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://archtrmntorr.github.io/posts/TryHackMe-Block-Writeup/</loc>
+	<lastmod>2025-05-22T04:55:38+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://archtrmntorr.github.io/posts/OverTheWire-Bandit-Walkthrough/</loc>
+	<lastmod>2025-05-22T04:55:38+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://archtrmntorr.github.io/page2/</loc>
+	<lastmod>2025-05-22T04:55:42+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 </urlset>
