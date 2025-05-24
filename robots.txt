@@ -1,0 +1,6 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://a442099.sitemaphosting7.com/4538832/sitemap_4538832.xml
+
