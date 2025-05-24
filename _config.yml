@@ -64,7 +64,7 @@ analytics:
   google:
     id: # fill in your Google Analytics ID
   goatcounter:
-    id: 121218
+    id: # fill in your Google Analytics ID
   umami:
     id: # fill in your Umami ID
     domain: # fill in your Umami domain
