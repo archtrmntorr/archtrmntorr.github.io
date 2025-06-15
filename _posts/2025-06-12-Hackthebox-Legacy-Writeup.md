@@ -78,7 +78,7 @@ it shows SMB ports Microsoft Windows RPC (TCP 135), along with SMB/NetBIOS ports
 
 ![Image6](https://api.pcloud.com/getpubthumb?code=XZTgUj5ZPH6BKl60S908OMGGILXCR7qfV4oV&linkpassword=&size=567x242&crop=0&type=auto)
 
-> we can aslo go the manual way if we want ... 
+> we can also go the manual way if we want ... 
 
 
 <br>
