@@ -1,9 +1,9 @@
 ---
 title: "Hackthebox Beep Walkthrough"
 description: "Hackthebox Beep Walkthrough"
-date: 2025-06-12
+date: 2025-06-15
 categories: [Walkthrough]
-tags: [hackthebox,Devel,Walkthrough,windows]
+tags: [hackthebox,Beep,Walkthrough,Linux]
 image :
     path : https://lh3.googleusercontent.com/d/1fM4HJUuPoxlk9_1-Y2ULJu0V76BNN1LP
 ---
@@ -125,4 +125,4 @@ Service Info: Hosts:  beep.localdomain, 127.0.0.1, example.com, localhost; OS: U
 --------
 I hope this blog continues to be helpful in your learning journey!. If you find this blog helpful, I’d love to hear your thoughts — my inbox is always open for feedback. Please excuse any typos, and feel free to point them out so I can correct them. Thanks for understanding and happy learning!. You can contact me on Linkedin and Twitter <br>
 [linkdin](https://www.linkedin.com/in/hitesh-sharma-413862245/) <br>
-[Twitter](https://x.com/Archtrmntor) <br>
+[Twitter](https://x.com/Archtrmntor)<br>

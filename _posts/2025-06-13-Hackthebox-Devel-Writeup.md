@@ -1,7 +1,7 @@
 ---
 title: "Hackthebox Devel Walkthrough"
 description: "Hackthebox Devel Walkthrough"
-date: 2025-06-12
+date: 2025-06-13
 categories: [Walkthrough]
 tags: [hackthebox,Devel,Walkthrough,windows]
 image :
