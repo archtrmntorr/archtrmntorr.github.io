@@ -101,7 +101,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://api.pcloud.com/getpubthumb?code=XZduym5ZJKHChmfVP7uOewyid1nv948USUWX&linkpassword=undefined&size=267x201&crop=0&type=auto
+avatar: https://lh3.googleusercontent.com/d/13SaoboPSPGuQ0UQUk6o5g_rSuqO7zAbH
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.gh
 # It can be overridden by a customized `page.image` in front matter.
