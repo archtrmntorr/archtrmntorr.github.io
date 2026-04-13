@@ -1,9 +1,9 @@
 ---
 title: "Hackthebox/Vulnlab Data Walkthrough"
-description: "Hackthebox Principal Walkthrough"
+description: "Hackthebox Data Walkthrough"
 date: 2026-03-24
 categories: [Walkthrough]
-tags: [hackthebox,Principal,Walkthrough,Linux]
+tags: [hackthebox,Data,Walkthrough,Linux]
 image :
     path : https://lh3.googleusercontent.com/d/13WmPjcioMULwQAcQXEQzLT5V05neFfPQ
 ---
