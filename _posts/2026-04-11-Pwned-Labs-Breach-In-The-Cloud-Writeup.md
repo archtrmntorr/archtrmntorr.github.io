@@ -1,7 +1,7 @@
 ---
 title: "Pwned Labs : Breach in the Cloud Writeup"
 description: "Pwned Labs : Breach in the Cloud Writeup"
-date: 2026-04-11
+date: 2026-04-13
 categories: [Walkthrough]
 tags: [Pwned-Labs,Cloud,Breach in the Cloud,AWS,ACRTP]
 image :
