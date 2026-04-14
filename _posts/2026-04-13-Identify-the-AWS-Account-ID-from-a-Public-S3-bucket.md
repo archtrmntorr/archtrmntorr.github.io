@@ -3,7 +3,7 @@ title: "Pwned Labs : Identify the AWS Account ID from a Public S3 Bucket"
 description: "Pwned Labs : Identify the AWS Account ID from a Public S3 Bucket"
 date: 2026-04-13
 categories: [Walkthrough]
-tags: [Pwned-Labs,Cloud,Breach in the Cloud,AWS,ACRTP]
+tags: [Pwned-Labs,Cloud,Identify the AWS Account ID from a Public S3 Bucket,AWS,ACRTP]
 image :
     path : https://lh3.googleusercontent.com/d/10u4XxguRW0BybCjjcQQP9HMHlw99bkQ2
 ---
