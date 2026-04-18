@@ -17,6 +17,8 @@ image :
 **Attacker Machine:** Kali Linux  
 
 -------
+> Writeup is modified with AI to sound better and avoid gramatical(`grammatical`) mistake .
+
 
 ## 🎯 Objective
 
